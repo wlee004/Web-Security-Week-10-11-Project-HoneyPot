@@ -4,6 +4,9 @@
 - Time Spent: 30 hours spent on assignment in total 
 - Honeypot script deployed: Ubuntu/ Raspberry Pi - Dionaea
 
+## Summary 
+- In this assignment 
+
 ## Attack Report 
 ![](report.gif)
 
